@@ -11,4 +11,5 @@ The game features a simple control mechanism, allowing you to move your spaceshi
 Welcome to the Space Shooter Game! Developed with Python and Pygame, this arcade-style game lets players control a yellow spaceship, battling colorful enemies and scoring points. With user-friendly keyboard controls, players navigate through waves of foes that approach at varying speeds.
 
 The game features appealing graphics with sprite images for all elements and includes a simple scoring system that tracks lives and levels.
+<br/>
 ![space](https://github.com/user-attachments/assets/461114f2-2b8b-4088-aa27-32914d310a03)
